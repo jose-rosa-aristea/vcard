@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rosa;José;;;
+FN:José Rosa
+ORG:ARISTEA - People and Technology
+ADR;TYPE=WORK:Rua Sidónio Pais, 390
+4475-498 Maia
+Portugal
+TITLE:Chief Information & Innovation Officer
+TEL;TYPE=CELL:+351918797716
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:jose.rosa@aristea.io
+URL;TYPE=Digital Business Card:
+URL:https://aristea.io/
+URL;TYPE=Website:https://aristea.io/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100403402
+END:VCARD
